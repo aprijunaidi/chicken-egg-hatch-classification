@@ -15,8 +15,10 @@ I use this code to support my paper published in IEEE with the following link: h
 If you need the dataset in this research, please get in touch with me at apri.junaidi@gmail.com
 
 The other paper was published with this dataset :
-https://ieeexplore.ieee.org/document/9530826 : *Image Classification for Egg Incubator using Transfer Learning of VGG16 and VGG19*
-https://link.springer.com/chapter/10.1007/978-981-19-1804-9_7 *Image Classification for Egg Incubator Using Transfer Learning VGG16 and InceptionV3*
+
+IEEE : https://ieeexplore.ieee.org/document/9530826 : *Image Classification for Egg Incubator using Transfer Learning of VGG16 and VGG19*
+
+Springer : https://link.springer.com/chapter/10.1007/978-981-19-1804-9_7 *Image Classification for Egg Incubator Using Transfer Learning VGG16 and InceptionV3*
 
 # Contribution :hammer_and_wrench:
 
