@@ -1,4 +1,5 @@
 # chicken-egg-hatch-classification
+![ayam-telur-menetas](https://github.com/aprijunaidi/chicken-egg-hatch-classification/assets/7279471/783be8fa-a03c-4d88-8516-e2355d4f5521)
 
 The following is the programme code for image classification consisting of three classes: eggs, chicks and hatched eggs.
 
