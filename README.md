@@ -1,7 +1,13 @@
-# chicken-egg-hatch-classification
+# Python Code for chicken-egg-hatch-classification
 ![ayam-telur-menetas](https://github.com/aprijunaidi/chicken-egg-hatch-classification/assets/7279471/783be8fa-a03c-4d88-8516-e2355d4f5521)
 
-# The following is the programme code for image classification, which consists of three classes: eggs, chicks, and hatched eggs.
+The following is the programme code for image classification, which consists of three classes: eggs, chicks, and hatched eggs.
+Library that use in code :
+- os
+- matplotlib
+- tensorflow
+- keras
+- numpy
 
 I use this code to support my paper published in IEEE with the following link: https://ieeexplore.ieee.org/document/9588815. The paper is entitled *Overfitting Problem in Images Classification for Egg Incubator Using Convolutional Neural Network*.
 
