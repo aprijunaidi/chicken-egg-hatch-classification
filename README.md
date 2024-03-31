@@ -11,7 +11,10 @@ Library that use in code :
 
 I use this code to support my paper published in IEEE with the following link: https://ieeexplore.ieee.org/document/9588815. The paper is entitled *Overfitting Problem in Images Classification for Egg Incubator Using Convolutional Neural Network*.
 
-If you need the dataset in this research, please get in touch with me at: apri.junaidi@gmail.com
+If you need the dataset in this research, please get in touch with me at apri.junaidi@gmail.com
+
+The other paper was published with this dataset :
+https://ieeexplore.ieee.org/document/9530826 : *Image Classification for Egg Incubator using Transfer Learning of VGG16 and VGG19*
 
 # Contribution :hammer_and_wrench:
 
