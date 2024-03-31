@@ -1,11 +1,11 @@
 # chicken-egg-hatch-classification
 ![ayam-telur-menetas](https://github.com/aprijunaidi/chicken-egg-hatch-classification/assets/7279471/783be8fa-a03c-4d88-8516-e2355d4f5521)
 
-The following is the programme code for image classification consisting of three classes: eggs, chicks and hatched eggs.
+# The following is the programme code for image classification, which consists of three classes: eggs, chicks, and hatched eggs.
 
-I use this code to support my paper published in IEEE with the following link: https://ieeexplore.ieee.org/document/9588815, the paper is entitled *Overfitting Problem in Images Classification for Egg Incubator Using Convolutional Neural Network*.
+I use this code to support my paper published in IEEE with the following link: https://ieeexplore.ieee.org/document/9588815. The paper is entitled *Overfitting Problem in Images Classification for Egg Incubator Using Convolutional Neural Network*.
 
-If you need the dataset in this research, please contact me at: apri.junaidi@gmail.com
+If you need the dataset in this research, please get in touch with me at: apri.junaidi@gmail.com
 
 # Contribution :hammer_and_wrench:
 
